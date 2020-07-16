@@ -1,2 +1,0 @@
-# python
-simlpe python program
